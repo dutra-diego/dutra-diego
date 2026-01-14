@@ -39,5 +39,5 @@ I am a software developer passionate about technology, currently studying **Syst
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/dutra-diego/dutra-diego/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/dutra-diego/dutra-diego/blob/main/github-metrics.svg" alt="Metrics" width="50%">
 </div>
