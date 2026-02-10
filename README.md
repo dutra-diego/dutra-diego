@@ -1,4 +1,4 @@
-### Hi there! I'm Diego Dutra Veloso 👋
+### Hi there! I'm Diego Dutra 👋
 
 <div align="center">
 
